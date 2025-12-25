@@ -491,7 +491,7 @@ if __name__ == '__main__':
 under different network conditions. Security evaluation of blockchain systems \
 could be performed with attackers designed in the simulator'
     parser = argparse.ArgumentParser(description=program_description)
-    parser.add_argument('--config', '-c', help='The path to the config file.', type=str, default='system_config.ini')
+    parser.add_argument('--config', '-c', help='The path to the config file.', type=str, default='pouw_config.ini')
     # EnvironmentSettings
     env_setting = parser.add_argument_group('EnvironmentSettings','Settings for Environment')
     env_setting.add_argument('--process_bar_type', help='Set the style of process bar: round/height',type=str)
