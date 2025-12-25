@@ -19,7 +19,6 @@ This project is a specialized blockchain simulator built upon the **ChainXim** f
 
 Simulating large-scale decentralized networks often presents significant costs and engineering challenges. This simulator addresses these issues by enabling low-cost, large-scale blockchain deployment and testing on a single machine. It simulates node operations and interactions within a virtual environment, generating comprehensive performance reports (throughput, fork rate, chain quality) once the main chain reaches a target height.
 
-![intro](doc/intro.svg)
 
 ## 🚀 Quick Start
 
